@@ -25,3 +25,7 @@ Clean, modern interface with responsive design
 Dark/light mode toggle (UI ready)
 Intuitive navigation between gallery and detail views
 The app uses React state management for all interactive elements and is built with Tailwind CSS for styling. The component is self-contained with sample media data and doesn't require any external API calls.
+
+---
+
+**Built by Girish Lade** — [ladestack.in](https://ladestack.in)
